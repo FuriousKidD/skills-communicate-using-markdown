@@ -14,3 +14,7 @@ StringBuilder word = new StringBuilder("Hello, World!");
 word.append(" This is Java.");
 ```
 Created a variable word of String and appended "Java" to it.
+To do list:
+- [ ] Turn on GitHub pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world!
