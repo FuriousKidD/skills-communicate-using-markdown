@@ -7,3 +7,10 @@
 I have made changes to this file by adding 6 headers.
 I will now add an image:
 ![This is an image of BROLY](https://github.com/user-attachments/assets/1e1944a9-53d5-4852-8a96-995365bec6a7)
+
+Adding code examples:
+```Java
+StringBuilder word = new StringBuilder("Hello, World!");
+word.append(" This is Java.");
+```
+Created a variable word of String and appended "Java" to it.
