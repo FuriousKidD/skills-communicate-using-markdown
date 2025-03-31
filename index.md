@@ -5,3 +5,5 @@
 ##### This is header 5
 ###### This is header 6
 I have made changes to this file by adding 6 headers.
+I will now add an image:
+![This is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
